@@ -1,2 +1,2 @@
-# ToDo-List[
+# ToDo-List
 https://taskbliss.netlify.app/
